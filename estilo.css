@@ -1,0 +1,22 @@
+
+html {
+    background-color: black;
+    font-family: sans-serif;
+    text-align: center;
+ }
+
+body {
+    color: white;
+    max-width: 600px;
+    margin: 0 auto;
+}   
+      
+.form input[type="number"] {
+    width: 100px;
+    height: 20px;
+}
+
+.lastResult {
+    color: white;
+    padding: 3px;
+}
